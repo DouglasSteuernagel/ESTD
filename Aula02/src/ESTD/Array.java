@@ -6,7 +6,7 @@ public class Array {
 	
 	Integer y;
 	
-	private void test() {
+	public void sum() {
 		System.out.println(i + y);
 
 	}
